@@ -1,0 +1,3 @@
+# SpawnerMining
+test
+TEST
